@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+}
+div#header{ 
+    display:block;
+    
+
+
+}
+   
+
+div#left-header, div#right-header{
+    width:15%;
+    display:inline-block;
+    vertical-align: top;
+    
+}
+div#center-header{
+    width:145%;
+    display:inline-block;
+    vertical-align: top;
+}
